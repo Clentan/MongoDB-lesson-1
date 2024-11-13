@@ -11,3 +11,11 @@ Open Terminal and Paste Url:Address
 Paster:password
 get inside the directory using:use (Folder_Name)
 then use :db.(folder_name).find() to print what is inside the folder
+
+
+Mongo DB
+using a terminal .
+
+initialize Mongo Db by using (Mongosh on terminal)
+
+
